@@ -325,7 +325,6 @@ FR-006: Article Bookmarking
 
 Registered users shall save articles for later reading.
 
-⸻
 
 FR-007: Recommendation System
 
