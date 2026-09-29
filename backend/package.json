@@ -4,13 +4,13 @@
   "description": "A full stack news aggregation platform built using React, TypeScript, Node.js, and Machine Learning techniques.",
   "main": "dist/server.js",
   "scripts": {
-    "dev": "nodemon --watch src --exec ts-node src/server.ts",
+    "dev": "nodemon src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
     "test": "echo \"No tests yet\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhydeen Ayandola",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
